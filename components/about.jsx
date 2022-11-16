@@ -14,7 +14,7 @@ function About() {
       <p className="text-center py-5">
         Hello there! My name is Greyson and I am a{" "}
         <strong>
-          <span className="text-blue-600">Web Developer</span>
+          <span className="text-cyan-300">Web Developer</span>
         </strong>
         !
       </p>
