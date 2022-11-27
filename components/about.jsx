@@ -16,7 +16,7 @@ function About() {
         <strong>
           <span className="text-cyan-300">Web Developer</span>
         </strong>
-        !
+        !!
       </p>
     </div>
   );
